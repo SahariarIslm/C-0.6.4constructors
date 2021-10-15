@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631717207 source:/home/sabit/DsaCourse/0.6.4constructors/0.6.4constructors.cpp/main.cpp
+	<iostream>
+	"Student.cpp"
+
+1631717404 /home/sabit/DsaCourse/0.6.4constructors/0.6.4constructors.cpp/Student.cpp
+	<iostream>
+
+1631718461 source:/home/sabit/DsaCourse/0.6.4constructors/0.6.4constructors.cpp/Student.cpp
+	<iostream>
+
